@@ -35,6 +35,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 Would you like me to also generate the `.gitignore` file next?
-```
+
 
 
