@@ -8,7 +8,7 @@ d88P  Y88b 888     888 888        d88P  Y88b d88P  Y88b           888     888   
 Y88b  d88P Y88b. .d88P 888        Y88b  d88P Y88b  d88P           888     888    888 888              888   Y8888 Y88b. .d88P 888   "   888 888   d88P 888        888  T88b  
  "Y8888P88  "Y88888P"  8888888888  "Y8888P"   "Y8888P"            888     888    888 8888888888       888    Y888  "Y88888P"  888       888 8888888P"  8888888888 888   T88b 
 ```                                                                                                                                                                             
-                                                                                                                                                                             
+# Number Guessing Game 🎯                                                                                                                                                                             
                                                                                                                                                                              
 
 This is a simple Python-based number guessing game that challenges users to guess a randomly generated number between 1 and 100. Players can choose between two difficulty levels: easy (10 guesses) and hard (5 guesses).
