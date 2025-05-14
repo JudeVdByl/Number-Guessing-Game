@@ -1,5 +1,4 @@
 
-````markdown
 # Number Guessing Game 🎯
 
 This is a simple Python-based number guessing game that challenges users to guess a randomly generated number between 1 and 100. Players can choose between two difficulty levels: easy (10 guesses) and hard (5 guesses).
@@ -18,7 +17,7 @@ This is a simple Python-based number guessing game that challenges users to gues
 
 ```bash
 python guessing_game.py
-````
+
 
 > Note: The script assumes you have an `art` module or `art.logo` available. If not, you can either comment out the logo line or provide your own ASCII logo.
 
